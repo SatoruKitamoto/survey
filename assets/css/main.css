@@ -108,7 +108,7 @@ a:after {
 
 .btn-theme {
 	color: #ffffff;
-	background-color: #74cfae;
+	background-color: #800000;
 	border-color: transparent;
 }
 
@@ -129,15 +129,15 @@ a:after {
 /* hello */
 #hello {
 	width: 100%;
-	padding-top: 250px;
-	padding-bottom: 250px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 #hello h1 {
 	font-size: 90px;
 	font-weight: 700;
 	letter-spacing: 3px;
-	color: #74cfae;
+	color: #191970;
 }
 
 #hello h2 {
@@ -147,19 +147,19 @@ a:after {
 
 /* Green */
 #green {
-	background-color: #74cfae;
+	background-color: #ffff00;
 	padding-top: 50px;
 	margin-bottom: 0px;
 }
 
 #green h3 {
-	color: white;
+	color: black;
 	font-weight: 400;
 	margin-bottom: 35px;
 }
 
 #green p {
-	color: white;
+	color: black;
 	font-weight: 400;
 	font-size: 20px;
 }
@@ -187,10 +187,10 @@ a:after {
 	padding-top: 200px;
 	padding-bottom: 200px;
 }
-
+#social {background-color:#4169e1}
 #social i {
 	font-size: 50px;
-	color: #74cfae;
+	color: white;
 }
 
 #social .col-md-3:hover {
@@ -204,12 +204,12 @@ a:after {
 /* Footer */
 #f {
 	padding-top: 20px;
-	background-color: #74cfae;
+	background-color: white;
 }
 
 #f p {
-	color: white;
-	text-align: right;
+	color: blacks;
+	text-align: center;
 	font-weight: 400;
 }
 
